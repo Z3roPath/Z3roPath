@@ -70,3 +70,5 @@ Software engineer and builder focused on full-stack systems, automation, AI work
 - [zakk-portfolio](https://github.com/Z3roPath/zakk-portfolio)
 - [freelancer-pricing-proposal](https://github.com/Z3roPath/freelancer-pricing-proposal)
 - [Forge-Digital](https://github.com/Z3roPath/Forge-Digital)
+
+- Badge sprint note (2026-05-27 16:10 UTC): small docs maintenance update.
