@@ -2,7 +2,60 @@
 
 > **Code the future, automate the present.**
 
-I build agentic software systems that combine local and cloud AI runtimes for practical automation.
+Software engineer and builder focused on full-stack systems, automation, AI workflows, and operational excellence.
+
+## Contact & Links
+- LinkedIn: [https://www.linkedin.com/in/bakerzw/](https://www.linkedin.com/in/bakerzw/)
+- Portfolio: [https://zakk-portfolio.vercel.app](https://zakk-portfolio.vercel.app)
+- GitHub: [https://github.com/Z3roPath](https://github.com/Z3roPath)
+
+## Experience
+- **Founder & Lead Developer — Forge Digital LLC** *(2024–Present)*
+  - Building AI and automation solutions with modern full-stack architecture
+  - Leading product delivery with Next.js, TypeScript, and cloud-native workflows
+
+- **IT Specialist — Borland Groover** *(Present)*
+  - IT support, systems operations, and infrastructure troubleshooting
+  - Managing technical issues and internal operational reliability
+
+- **General Manager — Wendy’s** *(10+ Years)*
+  - Led high-volume operations, staffing, training, and customer experience
+  - Owned day-to-day execution across team performance and operational consistency
+
+- **Workbench IT Specialist — OrangeTech** *(2007–2012)*
+  - Hardware/software diagnostics and repair
+  - OS reinstalls, virus removal, component replacement, and bench-level troubleshooting
+
+## Skills
+### IT Operations
+- System Administration
+- Infrastructure Management
+- Hardware Repair & Diagnostics
+- IT Security
+
+### Management
+- Team Leadership
+- Staff Training & Development
+- Operations Management
+- Customer Service Excellence
+
+### Full-Stack Development
+- Next.js & React
+- TypeScript
+- Node.js & APIs
+- Python
+- Vite
+- Tailwind CSS
+- Supabase
+- Database Design
+
+### Leadership & Business
+- Strategic Planning
+- Problem Solving
+- Business Development
+- AI/ML Expertise
+- Vercel Deployment
+- Stripe Integration
 
 ## AI Infrastructure & Agentic Systems
 - AI harness evolution: **OpenClaw → Hermes**
@@ -13,11 +66,7 @@ I build agentic software systems that combine local and cloud AI runtimes for pr
   - **OpenAI API**
   - **Claude API**
 
-## Focus Areas
-- Full-stack product engineering
-- Automation-first workflows
-- AI-assisted tooling and developer systems
-
-## Portfolio
-- Main portfolio repo: [zakk-portfolio](https://github.com/Z3roPath/zakk-portfolio)
-- Featured app: [freelancer-pricing-proposal](https://github.com/Z3roPath/freelancer-pricing-proposal)
+## Featured Repositories
+- [zakk-portfolio](https://github.com/Z3roPath/zakk-portfolio)
+- [freelancer-pricing-proposal](https://github.com/Z3roPath/freelancer-pricing-proposal)
+- [Forge-Digital](https://github.com/Z3roPath/Forge-Digital)
